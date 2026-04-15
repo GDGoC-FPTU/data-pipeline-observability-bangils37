@@ -2,8 +2,8 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-2A202600041  (<-- Thay XXXX bang ma so cua ban)
-Name: Do Thi Thuy Trang
+Student ID: AI20K-2A202600136  (<-- Thay XXXX bang ma so cua ban)
+Name: Nguyen Bang Anh
 
 Nhiem vu:
    1. Extract:   Doc du lieu tu file JSON
